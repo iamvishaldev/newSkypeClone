@@ -1,0 +1,36 @@
+.table{
+    border: none;
+    background-color:#f5f3f3;
+    border-bottom: none;
+}
+
+table tr td{
+    font-size: 12px;
+}
+
+table tr td:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.select{
+    padding: 10px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    width: 200px;
+}
+
+.footer-rightside{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+select option{
+    font-size: 11px;
+}
+
+.end-footer{
+    display: flex;
+    
+}

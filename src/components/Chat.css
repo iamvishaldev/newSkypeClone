@@ -1,0 +1,12 @@
+.chat-footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.chat1 p:hover{
+    border-bottom: 1px solid black;
+    display: inline-block;
+    cursor: pointer;
+    border-bottom: fixed;
+}

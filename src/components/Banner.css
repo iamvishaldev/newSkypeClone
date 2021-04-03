@@ -1,0 +1,14 @@
+@media (min-width: 1400px) {
+    .container{
+        max-width: 1400px;
+    }
+}
+
+button{
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.jumbotron{
+    border-radius: 1px 15px 15px 15px;
+}

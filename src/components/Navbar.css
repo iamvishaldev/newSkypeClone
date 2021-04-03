@@ -1,0 +1,26 @@
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1400px;
+    }
+}
+
+.coco{
+    width: 150px;
+}
+
+.nav-link:hover {
+    border-bottom: 3px solid black;
+    display: inline-block;
+  }
+
+ .nav-item .dropdown{
+    background-color: lightgray;
+ }
+  
+ .dropdown-menu{
+     background-color: lightgray;
+ }
+
+ .dropdown-item:hover{
+    text-decoration: underline;
+ }
